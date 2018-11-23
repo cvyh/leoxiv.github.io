@@ -4,6 +4,7 @@ module.exports = {
 
     themeConfig: {
       search: false,
+      navbar: false
     //   sidebar: 'auto'
     }
   }
